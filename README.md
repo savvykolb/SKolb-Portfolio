@@ -36,10 +36,6 @@ Users will then be able to view my about me and skills section. You will see I h
 
 ![About Me and Skills ](assets/img/readMe/about.jpg)
 
-You will also see that there are some safeguard modals enabled to help guide users during application usage. 
-
-![FoodApedia Modal Alerts ](assets/images/modals.gif)
-
 ### Portfolio
 #
 

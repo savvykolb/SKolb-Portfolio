@@ -18,9 +18,9 @@ If you are opting out of career services, this is *still a required assignment*.
 
 ## My Portfolio Presentation
 
-Here is our link to our launched site: [Savannah Kolb Portfolio](https://snk923.github.io/homework8-professional-materials/)
+Here is the link to my launched site: [Savannah Kolb Portfolio](https://snk923.github.io/homework8-professional-materials/)
 
-Here is our link to my original portfolio: [Outdated SK Portfolio](https://snk923.github.io/homework2-professional-portfolio/)
+Here is the link to my original portfolio: [Outdated SK Portfolio](https://snk923.github.io/homework2-professional-portfolio/)
 
 ### Homepage
 #

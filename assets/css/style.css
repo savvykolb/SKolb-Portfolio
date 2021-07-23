@@ -309,26 +309,26 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 75vh;
-  background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url("../img/heroImage.png") top center;
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("../img/heroImage.png") top center;
   background-size: cover;
   padding: 0 15px;
 }
 
 #hero h1 {
-  margin: 0 0 10px 0;
-  font-size: 48px;
-  font-weight: 700;
-  line-height: 56px;
+  margin: 0 0 15px 0;
+  font-size: 66px;
+  /* font-weight: 15000; */
+  line-height: 70px;
   color: #fff;
-  text-shadow: 2px 2px 4px #194b74;
+  text-shadow: 3px 3px 6px #194b74;
 }
 
 #hero h2 {
-  color: #eee;
-  text-shadow: 2px 2px 4px #194b74;
+  color: rgba(255, 255, 255, 0.966);
+  text-shadow: 1px 1px 2px #194b74;
   margin-bottom: 10px;
-  font-size: 24px;
-  font-weight: 300;
+  font-size: 28px;
+  font-weight: 400;
   font-family: "Poppins", sans-serif;
 }
 

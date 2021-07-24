@@ -1,24 +1,13 @@
-# 08 Project 1: Professional Materials
+# Savannah Kolb Professional Portfolio
+### updated 08/2021
 
-## My Task
-
-Now that you've had some practice with APIs and have a project to share, you'll be updating your portfolio page and other materials to build toward being employer-competitive.
-
-If you are opting out of career services, this is *still a required assignment*. Part of being a web developer means being a part of a community. Having a place to share your projects is *necessary* if you're applying for jobs, but it's also *critical* on your journey as a developer.
-
-## The Acceptance Requirements I Met:
-
-* Updated portfolio featuring Project 1 and two exemplary homework assignments.
-
-* Updated GitHub profile with pinned repositories featuring Project 1 and two exemplary assignments.
-
-* Updated resume
-
-* Updated LinkedIn profile 
+![MIT](https://img.shields.io/badge/license-MIT-brightgreen)
 
 ## My Portfolio Presentation
 
-Here is the link to my launched site: [Savannah Kolb Portfolio](https://snk923.github.io/homework8-professional-materials/)
+This application is my personaly job portfolio. This will be used for any job searches or freelance work. It will give any potential clients or future employers a glimpse into who I am and what my work is like. You will find there is an about me section, a list of all my skills, recent projects, my resume, and contact information. 
+
+Here is the link to my launched site: [Savannah Kolb Portfolio](https://www.savvykolb.com)
 
 Here is the link to my original portfolio: [Outdated SK Portfolio](https://snk923.github.io/homework2-professional-portfolio/)
 
@@ -45,6 +34,13 @@ Users can navigate to my portfolio section by clicking the navigation bar or by 
 <br></br>
 ![Portfolio Project Information](assets/img/readMe/portfolioInfo.jpg)
 <br></br>
+
+### Resume 
+#
+
+Users can reference my resume right on my portfolio page or they have the optin to download a pdf version by pressing the download button in the resume title.
+
+![Resume](assets/img/readMe/resume.jpg)
 
 ### Contact 
 #
